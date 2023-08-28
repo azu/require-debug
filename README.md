@@ -5,3 +5,6 @@ CommonJS debug.
 ## Usage
 
     node --require ./require-hooks.js src/main.js
+
+## What's this?
+
